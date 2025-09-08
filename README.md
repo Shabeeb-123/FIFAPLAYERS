@@ -107,11 +107,3 @@ visualization**.
     Real Madrid, PSG, etc.) have the **highest-rated squads**.\
 -   **Market value & wages** are tightly linked with ratings, potential,
     and international reputation.
-
-------------------------------------------------------------------------
-
-
-------------------------------------------------------------------------
-
-👨‍💻 *Author: \[Your Name\]*\
-📅 *Project Date: 2025*
