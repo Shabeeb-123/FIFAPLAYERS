@@ -110,18 +110,6 @@ visualization**.
 
 ------------------------------------------------------------------------
 
-## 🚀 How to Run
-
-1.  Clone this repository or open the folder in **VS Code**.\
-
-2.  Install dependencies:
-
-    ``` bash
-    pip install pandas numpy matplotlib seaborn
-    ```
-
-3.  Run the Jupyter Notebook or Python script to explore the dataset and
-    visualizations.
 
 ------------------------------------------------------------------------
 
